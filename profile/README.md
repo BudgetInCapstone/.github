@@ -19,6 +19,12 @@ BudgetIn is a mobile application that functions to organize and provide recommen
 ## Demo  
 
 ## Supports
+- Kampus Merdeka
+- Bangkit Academy 2023
+- Google
+- Traveloka
+- GoTo
+- DeepTech.id
 
 ## Tech Stack
 Client: Android Studio, Kotlin, Android SDK, XML, Jetpack, Retrofit, Dagger, Navigation, Fragment KTX, Preference Datastore, Coroutines, Motion Layout, RecyclerView, CircleImage, Mockito, Espresso, Figma, Maze. 
