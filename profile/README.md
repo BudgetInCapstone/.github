@@ -1,6 +1,6 @@
 ## C23-PS401 
 # Product-based Capstone Project Bangkit Academy 2023
-tes123
+
 ![](https://github.com/BudgetInCapstone/.github/blob/main/logo%20budgetin.png)
 
 ## BudgetIn 
@@ -16,7 +16,7 @@ BudgetIn is a mobile application that functions to organize and provide recommen
 ## Installations
 
 ## Screenshots
-
+![](/screenshot/image1.jpeg)
 ## Demo  
 
 ## Supports
