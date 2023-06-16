@@ -14,7 +14,7 @@ BudgetIn is a mobile application that functions to organize and provide recommen
 - Monthly shopping recommendation (TBD)
 
 ## Installations
-
+[Install Application Here](https://drive.google.com/drive/u/1/folders/1i-b1UGRgoW5MPvIX_idX3Jn9RapsSIt2)
 ## Screenshots
 ![image](/apps/ss.png)
 ## Demo  
