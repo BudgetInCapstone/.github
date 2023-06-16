@@ -1,4 +1,4 @@
-![](url)
+![](https://github.com/BudgetInCapstone/.github/blob/main/logo%20budgetin.png)
 
 ## BudgetIn - Capstone Project 2023
 BudgetIn is a mobile application that functions to organize and provide recommendations for user expenses according to their income and needs.
