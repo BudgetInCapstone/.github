@@ -16,7 +16,7 @@ BudgetIn is a mobile application that functions to organize and provide recommen
 ## Installations
 
 ## Screenshots
-![](/screenshot/image1.jpeg {width=100px})
+![image](/screenshot/image1.jpeg 100x)
 ## Demo  
 
 ## Supports
