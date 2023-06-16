@@ -18,7 +18,7 @@ BudgetIn is a mobile application that functions to organize and provide recommen
 ## Screenshots
 ![image](/apps/ss.png)
 ## Demo  
-![video](/apps/video.mp4)
+![video](/apps/video.mov)
 ## Supports
 - Kampus Merdeka
 - Bangkit Academy 2023
