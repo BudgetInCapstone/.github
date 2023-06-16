@@ -1,4 +1,5 @@
-## C23-PS401 Product-based Capstone Project 2023
+## C23-PS401 
+# Product-based Capstone Project Bangkit Academy 2023
 
 ![](https://github.com/BudgetInCapstone/.github/blob/main/logo%20budgetin.png)
 
